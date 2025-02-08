@@ -11,12 +11,8 @@ Team members include:
 
 4)Nguyễn Thành Nhân - Student1455763  - Dev
 
-Documetation included on the main folder:
+Documents folder included: Installation Guide.docx
+sql file folder included: 'airhouse.sql'
 
-Intallation guide <br/>
-Database source : 'airhouse.sql' <br/>
-Documentation : 'REVIEW_FINAL_GROUP2_AIR_HOUSE' <br/>
-
-
-Note: all document in 'Document' folder, database file in 'sql file'
+Note: all document in 'Documents' folder, database file in 'sql file'
 
