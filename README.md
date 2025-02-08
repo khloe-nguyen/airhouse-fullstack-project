@@ -2,6 +2,7 @@ Airhouse.com Project - Semester 2 - FPT Aptech
 Technologies used: PHP - Laravel - HTML/CSS/JS - AJAX - ReactJS - Stripe - React Query - Styled-Component - Pusher
 
 Backend: PHP Laravel
+
 Frontend: ReactJS
 
 Team members include:
